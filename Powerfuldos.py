@@ -83,15 +83,17 @@ def show_loading(text, duration):
 
 BANNER = f"""
 {Colors.RED}{Style.BRIGHT}⠀·····················································
-: ____    _    ____ _____   ____  ____   ___  ____  :
-:| __ )  / \  / ___|  ___| |  _ \|  _ \ / _ \/ ___| :
-:|  _ \ / _ \| |   | |_    | | | | | | | | | \___ \ :
-:| |_) / ___ \ |___|  _|   | |_| | |_| | |_| |___) |:
-:|____/_/   \_\____|_|     |____/|____/ \___/|____/ :
+:███╗   ███╗ █████╗ ██╗███╗   ███╗
+████╗ ████║██╔══██╗██║████╗ ████║
+██╔████╔██║███████║██║██╔████╔██║
+██║╚██╔╝██║██╔══██║██║██║╚██╔╝██║
+██║ ╚═╝ ██║██║  ██║██║██║ ╚═╝ ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
+                                  :
 ·····················································⠀⠓⠒{Style.RESET_ALL}
 
 {Colors.CYAN}{Style.BRIGHT}
-           {Colors.RED}Developer: ANONYMOUS SAINAD {Colors.CYAN}| {Colors.RED}Channel: Team Bacf Officials  {Colors.CYAN}
+           {Colors.RED}Developer: ABRAR_MAIM {Colors.CYAN}| {Colors.RED}Channel: Team Cyber Reign☠️  {Colors.CYAN}
 
 """
 
@@ -217,7 +219,7 @@ class TargetAnalyzer:
             'jQuery': ['jquery'],
             'Bootstrap': ['bootstrap'],
             'Laravel': ['laravel'],
-            'IIS': ['IIS', 'X-Powered-By: ASP.NET']
+            'IIS': ['IIS', 'X-Powered-By: MAIM YEAGER']
         }
 
         for tech, sigs in tech_signatures.items():
